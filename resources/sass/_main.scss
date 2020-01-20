@@ -1,0 +1,14 @@
+.col-md-border {
+  border-left: 1px solid #d7d7d7;
+  margin-left: -1px;
+}
+
+.modal-header {
+  background-color: $red-2;
+  color: $white;
+}
+
+#listFreebies {
+  max-height: 400px;
+  overflow-y: auto;
+}
